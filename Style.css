@@ -7,9 +7,7 @@ body,h1 {
     background-color: black;
     height: 70px;
 }
-i {
-    margin-right: 30px;
-}
+
 .title {
    
     width: 40%;
@@ -27,12 +25,13 @@ i {
     text-align: center;
     line-height: 70px;
 }
-  #pizza{
+
+  .pizza{
     margin-top: 50px;
     text-align: center;
   }
 
-  #fries {
+  .fries {
     margin-top: 50px;
     text-align: center;
   }
@@ -61,10 +60,13 @@ table {
     width: 100%;
 }
 
-#footer {
+.footer {
     color: white;
     margin-top: 100px;
     background-color: rgb(31, 11, 11);
     text-align: center;
     padding: 50px;
+}
+i {
+    margin-right: 30px;
 }
